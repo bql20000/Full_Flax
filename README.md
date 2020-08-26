@@ -1,6 +1,7 @@
 # Full Flow Flax
 
-# Team members: Trung Hieu, Cao Nam, Quang Long
+
+### Team members: Trung Hieu, Cao Nam, Quang Long
 
 - Run : python3 run_demo.py - run the images from folder images output to part1_output folder and then read to graph-explainer.
 
